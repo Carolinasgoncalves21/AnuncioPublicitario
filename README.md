@@ -1,2 +1,2 @@
 # AnuncioPublicitario
-Atividade interdisciplinar sobre Anúncio Publicit6
+Atividade interdisciplinar sobre Anúncio Publicitário
