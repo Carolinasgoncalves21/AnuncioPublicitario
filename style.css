@@ -1,5 +1,8 @@
 body {
     background-color: #ccc2a7;
     color: #65261e;
-    h1: #2b879e;
+}
+
+h1 {
+    color:#f8cf3d;
 }
